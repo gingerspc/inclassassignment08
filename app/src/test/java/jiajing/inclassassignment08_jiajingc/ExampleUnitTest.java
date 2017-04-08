@@ -1,4 +1,4 @@
-package jiajing.inclassassignment08_jiajingc;
+package com.example.g.inclassassignment08_jiajingc;
 
 import org.junit.Test;
 
