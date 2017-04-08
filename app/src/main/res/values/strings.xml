@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">InClassAssignment08-JiajingC</string>
+    <string name="app_name">InClassAssignment08_JiajingC</string>
+    <string name="error_message">\"Login unsuccessful\"</string>
 </resources>
